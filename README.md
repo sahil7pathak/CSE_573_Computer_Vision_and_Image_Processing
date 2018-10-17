@@ -1,4 +1,4 @@
-# CSE 573 Computer Vision and Image Processing
+# CSE 573 - Computer Vision and Image Processing
 
 Task 1: Edge Detection using Sobel Operator
 
